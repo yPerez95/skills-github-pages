@@ -2,8 +2,11 @@
 title: ACTUALIZATE
 ---
 
-# HMM, BICHOTE
-![Imagen de un bicho](https://static.wikia.nocookie.net/budokai/images/e/e1/%E3%82%BB%E3%83%AB.png/revision/latest?cb=20120620180702&path-prefix=es)
+
+# LA SHIKANOKO
+![shikanokonoko](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqSZhvDBz0KzOb3O67tX0w2abMgzkx520qDw&s)
+
 ``` C
 printf("ALEJATE O TAKAKAE");
 ```
+
